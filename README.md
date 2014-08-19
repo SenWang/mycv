@@ -1,2 +1,2 @@
-mycv
+我的 OpenCV 範例
 ====
