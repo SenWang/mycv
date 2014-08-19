@@ -1,9 +1,17 @@
 我的 OpenCV 範例
 ====
+
+
+EX0<br/>
 using:
 
-mkdir build
-cd build
-cmake ..
-make
-./EX0 ../opencv-logo-white.png
+<ol>
+<li>mkdir build</li>
+<li>cd build</li>
+<li>cmake ..</li>
+<li>make</li>
+<li>./EX0 ../opencv-logo-white.png</li>
+<li>rm -rf XXX</li>
+</ol>
+
+
