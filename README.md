@@ -11,6 +11,7 @@ using:
 <li>cmake ..</li>
 <li>make</li>
 <li>./EX0 ../opencv-logo-white.png</li>
+<li>./EX1 ../samplevideo.mp4</li>
 <li>rm -rf XXX</li>
 </ol>
 
