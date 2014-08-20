@@ -1,9 +1,6 @@
 我的 OpenCV 範例
 ====
-
-
-EX0<br/>
-using:
+using:<br/>
 
 <ol>
 <li>mkdir build</li>
