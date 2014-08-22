@@ -7,7 +7,7 @@ Linux下 :<br/>
 <li>Linux下: cmake .. </li>
 </ol>
 
-Windows下 : <br/>
+Windows下 : (假設 OpenCV裝在 C:\opencv目錄下)<br/>
 <ol>
 <li>mkdir build</li>
 <li>cd build</li>
